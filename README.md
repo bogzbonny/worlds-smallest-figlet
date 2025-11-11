@@ -19,6 +19,8 @@
    in browsers but widely supported in terminals
  - I may update the font further
  - I'm no figlet expert
+ - This is currently a monospace font, may make a compression version of it
+   eventually
  - The actual font is `worlds_smallest_figlet.flf` feel free to include it in
    your repo / do whatever you like with that file.
 
